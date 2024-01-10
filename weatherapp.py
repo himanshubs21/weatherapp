@@ -1,4 +1,5 @@
 #weatherapp
+# we want this program to run on windows too!!
 import requests
 import json
 import os
